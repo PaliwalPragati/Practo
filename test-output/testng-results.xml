@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-27T15:32:18 IST" name="Default suite" finished-at="2022-10-27T15:32:51 IST" duration-ms="33652">
+    <groups>
+    </groups>
+    <test started-at="2022-10-27T15:32:18 IST" name="Default test" finished-at="2022-10-27T15:32:51 IST" duration-ms="33652">
+      <class name="testCases.TestCases">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testCases.TestCases@7d8995e]" started-at="2022-10-27T15:32:18 IST" name="beforeTest" finished-at="2022-10-27T15:32:29 IST" duration-ms="10750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="loginTest()[pri:0, instance:testCases.TestCases@7d8995e]" started-at="2022-10-27T15:32:29 IST" name="loginTest" finished-at="2022-10-27T15:32:36 IST" duration-ms="7785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="locAndNavTest()[pri:1, instance:testCases.TestCases@7d8995e]" started-at="2022-10-27T15:32:36 IST" name="locAndNavTest" finished-at="2022-10-27T15:32:41 IST" duration-ms="4943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locAndNavTest -->
+        <test-method signature="medicineTest()[pri:2, instance:testCases.TestCases@7d8995e]" started-at="2022-10-27T15:32:41 IST" name="medicineTest" finished-at="2022-10-27T15:32:46 IST" duration-ms="4921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- medicineTest -->
+        <test-method signature="addProductsTest()[pri:3, instance:testCases.TestCases@7d8995e]" started-at="2022-10-27T15:32:46 IST" name="addProductsTest" finished-at="2022-10-27T15:32:47 IST" duration-ms="615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductsTest -->
+        <test-method signature="viewCartTest()[pri:4, instance:testCases.TestCases@7d8995e]" started-at="2022-10-27T15:32:47 IST" name="viewCartTest" finished-at="2022-10-27T15:32:50 IST" duration-ms="2702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewCartTest -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCases.TestCases@7d8995e]" started-at="2022-10-27T15:32:50 IST" name="afterTest" finished-at="2022-10-27T15:32:51 IST" duration-ms="1673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testCases.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
