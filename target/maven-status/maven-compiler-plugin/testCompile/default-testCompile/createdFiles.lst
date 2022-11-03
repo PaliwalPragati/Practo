@@ -1,0 +1,6 @@
+pages\MedicineSearch.class
+pages\AddProductsPage.class
+pages\ViewCartPage.class
+testCases\TestCases.class
+pages\LocationAndNavigation.class
+pages\Login.class
